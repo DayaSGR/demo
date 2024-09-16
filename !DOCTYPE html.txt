@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html log = "en">
+    <head>
+        <mete charset="UTF-8">
+        <mete name = "viewpotr" content = "width = device-width, initial-scale = 1.0">
+        <title>NEWS</title>
+        <link rel = "stylesheet" tyoe = "text/css" href = "{% static '/css/style.css'%}">
+    </head>
+    <body>
+        <h1 class = "a">Good Morning</h1>
+        <p>Isn't it a butiful day</p>
+    </body>
+</html>
